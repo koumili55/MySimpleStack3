@@ -1,7 +1,7 @@
 package deqo.koumili.MySimpleStack;
 
 /*
-+* reponse a l'exigence #2
+* reponse a l'exigence #2
 * */
 
 public class StackItem implements stack {
