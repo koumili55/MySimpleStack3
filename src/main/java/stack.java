@@ -1,5 +1,5 @@
 /*
-* pour l'exigence #1
+* pour l'exigence 1 #1
 * */
 
 public interface stack {
